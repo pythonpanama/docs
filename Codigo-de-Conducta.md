@@ -46,10 +46,10 @@ Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán
 
 Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
 Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio. * En el foro de Discourse puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://comunidad.es.python.org/groups/moderadores). * En Telegram, a la persona propietaria del grupo u otras administradoras.
-Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en [contacto@es.python.org](mailto:contacto@es.python.org).
+Para otros espacios o de forma alternativa, ponte en contacto con la Junta Directiva en [pythonpa@aol.com](mailto:pythonpa@aol.com).
 Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
 
-Atribución
+#### Atribución ####
 Este código de conducta extiende el ya existente con aportaciones de otros códigos:
 
 la versión en español del [Contributor Covenant][homepage], versión 2.0, disponible en https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/ [homepage]: https://www.contributor-covenant.org
