@@ -6,6 +6,10 @@ Al participar en la comunidad de Python Panamá, te comprometes a fomentar una e
 
 Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rechazan y qué mecanismos hay para ayudar a una persona que esté siendo objeto de comportamientos inadecuados.
 
+El Código de Conducta es un documento vivo y se actualizará cuando y si se considera necesario.
+
+El Código de Conducta no es un “código” en el sentido de ser un algoritmo o un programa de computadora. El Código de conducta no se ejecuta "a ciegas y algorítmicamente", sino que lo hacen cumplir los seres humanos que toman decisiones reales basadas en toda la información disponible y utilizando todo el contexto disponible.
+
 #### ¿Por qué un código de conducta? ####
 Siguiendo con el zen de Python, *explícito mejor que implícito*. Explicamos qué se espera del ambiente en cualquier evento de Python Panamá:
 
@@ -63,3 +67,4 @@ Este código de conducta extiende el ya existente con aportaciones de otros cód
 - la versión en español del [Contributor Covenant](https://www.contributor-covenant.org/), versión 2.0. [homepage](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/)
 - el código de conducta de [DjangoCon Europe 2020](https://2020.djangocon.eu/conduct/code_of_conduct/)
 - código de conducta [Python España](https://www.es.python.org/pages/codigo-de-conducta.html)
+- código de conducta del [Proyecto Fedora](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
