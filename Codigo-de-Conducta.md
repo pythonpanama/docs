@@ -1,6 +1,8 @@
 ## Código de conducta ##
 
-Python Panamá, como asociación en torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia todos los demás.
+Python Panamá, grupo aprobado por la Python Software Foundation (PSF) organización miembro 501(c)(3) dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
+
+En torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia todos los demás.
 
 Al participar en la comunidad de Python Panamá, te comprometes a fomentar una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, discapacidad visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
 
@@ -43,7 +45,7 @@ Ejemplos de comportamiento inaceptable:
 Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada.
 
 #### Cumplimiento ####
-La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o de la Asociación, sin derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
+La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o del grupo, sin derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
 
 #### Denuncia e información de contacto ####
 Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:
