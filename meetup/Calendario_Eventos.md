@@ -23,3 +23,10 @@ Debajo podrás observar los eventos realizados por la comunidad Python Panamá a
 | 14 oct., 2020 | 7:00 PM     | 8:30 PM    | Python Meetup Vol. 21    |                            | Machine Learning with Python                              | Python + AWS                                                       |                  |             |
 | 18 nov., 2020 | 7:00 PM     | 8:30 PM    | Python Meetup Vol. 22    |                            |                                                           |                                                                    |                  |             |
 | 16 dic., 2020 | 7:00 PM     | 8:30 PM    | Python Meetup Vol. 23    |                            |                                                           |                                                                    |                  |             |
+
+
+
+
+
+Nuevo
+
