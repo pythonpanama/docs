@@ -9,7 +9,7 @@ Lo estamos haciendo para ahorrar tiempo y ser mas eficientes en las tareas de la
 
 Tipos de documentos que podran estar aqui:
 
-- Lista de tareas pendientes 
+- Lista de tareas pendientes
 - Cronogramas
 - Organizacion
 - Minutas de reuniones
