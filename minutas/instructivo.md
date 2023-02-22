@@ -14,6 +14,14 @@ Las minutas deberán contener lo siguiente:
 - Lugar, fecha y hora
 - Participantes
 - Agenda del día
-- Decisiones tomadas
 - Tareas pendientes
-- Temas varios
+- Discusión de temas
+- Asignación de tareas
+
+### Estatus de tareas pendientes
+
+1. **Pendiente**: tarea que aún no ha comenzado.
+2. **En progreso**: tarea que está en proceso de realización.
+3. **Completada**: tarea que ha sido finalizada.
+4. **Cancelada**: tarea que ha sido cancelada.
+5. **Replanificada**: tarea que ha sido modificada en su planificación.
