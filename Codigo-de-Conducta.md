@@ -1,4 +1,4 @@
-## Código de conducta ##
+# Código de conducta
 
 Python Panamá, grupo aprobado por la Python Software Foundation (PSF) organización miembro 501(c)(3) dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
 
@@ -12,17 +12,20 @@ El Código de Conducta es un documento vivo y se actualizará cuando y si se con
 
 El Código de Conducta no es un “código” en el sentido de ser un algoritmo o un programa de computadora. El Código de conducta no se ejecuta "a ciegas y algorítmicamente", sino que lo hacen cumplir los seres humanos que toman decisiones reales basadas en toda la información disponible y utilizando todo el contexto disponible.
 
-#### ¿Por qué un código de conducta? ####
+## ¿Por qué un código de conducta?
+
 Siguiendo con el zen de Python, *explícito mejor que implícito*. Explicamos qué se espera del ambiente en cualquier evento de Python Panamá:
 
 - favorece que más personas sepan que son bienvenidas
 - evita ambigüedades
 - construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (*victim blaming*).
 
-#### Alcance ####
+## Alcance
+
 Este código de conducta es aplicable a todas las personas que participen en espacios de la comunidad de Python Panamá, ya sean en línea o presenciales. También se aplica a espacios públicos donde una persona esté en representación de la comunidad. Ejemplos de esto último incluyen el uso de la cuenta oficial de correo electrónico, publicaciones a través de las redes sociales oficiales, o presentaciones con personas designadas en eventos en línea o no.
 
-#### Nuestros estándares ####
+## Nuestros estándares
+
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nuestra comunidad:
 
 - Demostrar empatía y amabilidad ante otras personas. No insultes o humilles a otros asistentes. Recuerda que las bromas sexistas, racistas o discriminatorias no son apropiadas. Nunca lo son.
@@ -36,7 +39,7 @@ Ejemplos de comportamiento que contribuyen a crear un ambiente positivo para nue
 Ejemplos de comportamiento inaceptable:
 
 - El uso de lenguaje o imágenes sexualizadas, y aproximaciones o atenciones sexuales de cualquier tipo.
-- Comentarios despectivos (_trolling_), insultantes o derogatorios, y ataques personales o políticos.
+- Comentarios despectivos (*trolling*), insultantes o derogatorios, y ataques personales o políticos.
 - Bromas racistas, sexistas o excluyentes.
 - El acoso en público o privado.
 - Publicar información privada de otras personas, tales como direcciones físicas o de correo electrónico, sin su permiso explícito.
@@ -44,18 +47,18 @@ Ejemplos de comportamiento inaceptable:
 
 Por acoso se entiende comentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia o religión, pornografía en espacios públicos, intimidación deliberada, acecho, persecución, acoso por fotografías o grabaciones, constante interrupción de charlas u otros eventos, contacto físico inapropiado y atención sexual no deseada.
 
-#### Cumplimiento ####
-La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o del grupo, sin derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, _commits_, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
+## Cumplimiento
 
-#### Denuncia e información de contacto ####
+La administración de la comunidad es responsable de aclarar y hacer cumplir este código de conducta; en caso de que se determine un comportamiento inadecuado, tomará las acciones que considere oportunas. Éstas van desde exigir el cese del comportamiento, hasta la expulsión de una persona de un evento o del grupo, sin derecho a reembolso. La administración de la comunidad tendrá el derecho y la responsabilidad de eliminar, editar o rechazar mensajes, comentarios, *commits*, código, ediciones de páginas de wiki, tickets y otras contribuciones que no se alineen con este código de conducta, y comunicará las razones para sus decisiones de moderación cuando sea apropiado.
+
+## Denuncia e información de contacto
+
 Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán ser denunciados a las personas administradoras de la comunidad responsables del cumplimiento:
 
 - Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
 - Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
-- En el canal de Slack puedes denunciar publicaciones individuales o contactar con el [grupo de moderadores](https://pythonpanama.slack.com).
 - En [Telegram](https://t.me/joinchat/AHGE4BExJCncl95QH1eQfw), a la persona propietaria del grupo u otras administradoras.
 - Para otros espacios o de forma alternativa, ponte en contacto con los organizadores al correo: [pythonpa@aol.com](mailto:pythonpa@aol.com)
-
 
 Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
 
@@ -63,7 +66,8 @@ Todas las personas administradoras de la comunidad están obligadas a respetar l
 
 *Tenemos participantes encantadores y confiamos en que este código de conducta refleja las opiniones de la mayoría de nuestros participantes.*
 
-#### Atribución ####
+## Atribución
+
 Este código de conducta extiende el ya existente con aportaciones de otros códigos:
 
 - la versión en español del [Contributor Covenant](https://www.contributor-covenant.org/), versión 2.0. [homepage](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/)
