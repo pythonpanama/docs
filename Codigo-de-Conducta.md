@@ -1,6 +1,6 @@
 # Código de conducta
 
-Python Panamá, grupo aprobado por la Python Software Foundation (PSF) organización miembro 501(c)(3) dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
+**Python Panamá**, grupo aprobado por la Python Software Foundation (PSF) organización miembro 501(c)(3) dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
 
 En torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia todos los demás.
 
@@ -10,7 +10,7 @@ Este Código de Conducta detalla qué comportamientos se esperan, cuáles se rec
 
 El Código de Conducta es un documento vivo y se actualizará cuando y si se considera necesario.
 
-El Código de Conducta no es un “código” en el sentido de ser un algoritmo o un programa de computadora. El Código de conducta no se ejecuta "a ciegas y algorítmicamente", sino que lo hacen cumplir los seres humanos que toman decisiones reales basadas en toda la información disponible y utilizando todo el contexto disponible.
+> El Código de Conducta no es un *“código”* en el sentido de ser un algoritmo o un programa de computadora. El Código de conducta no se ejecuta "a ciegas y algorítmicamente", sino que lo hacen cumplir los seres humanos que toman decisiones reales basadas en toda la información disponible y utilizando todo el contexto disponible.
 
 ## ¿Por qué un código de conducta?
 
@@ -57,12 +57,12 @@ Los casos de comportamiento abusivo, acosador o inaceptable de otro modo podrán
 
 - Si es un evento presencial, ponte en contacto directamente con las personas organizadoras del evento. Es muy probable que hayan publicando un código de conducta específico del evento con instrucciones de a quién acudir; te proporcionarán un espacio seguro para ayudarte.
 - Si se trata de un espacio en línea, ponte en contacto con las personas moderadoras de ese espacio.
-- En [Telegram](https://t.me/joinchat/AHGE4BExJCncl95QH1eQfw), a la persona propietaria del grupo u otras administradoras.
-- Para otros espacios o de forma alternativa, ponte en contacto con los organizadores al correo: [pythonpa@aol.com](mailto:pythonpa@aol.com)
+- En [Telegram](https://t.me/pythonpanama), a la persona propietaria del grupo u otras administradoras.
+- Para otros espacios o de forma alternativa, ponte en contacto con los organizadores al correo: [contacto@pythonpanama.org](mailto:contacto@pythonpanama.org)
 
 Todas las personas administradoras de la comunidad están obligadas a respetar la privacidad y la seguridad de quienes denuncien incidentes.
 
-**Esperamos que los participantes, conferencistas y patrocinadores sigan estas reglas en todos los espacios virtuales y presenciales de los eventos.**
+**Esperamos que los participantes, conferencistas, socios y patrocinadores sigan estas reglas en todos los espacios virtuales y presenciales de los eventos.**
 
 *Tenemos participantes encantadores y confiamos en que este código de conducta refleja las opiniones de la mayoría de nuestros participantes.*
 
