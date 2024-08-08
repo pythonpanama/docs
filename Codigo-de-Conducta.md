@@ -1,6 +1,6 @@
 # Código de conducta
 
-**Python Panamá**, grupo aprobado por la Python Software Foundation (PSF) organización miembro 501(c)(3) dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
+**Python Panamá**, es un grupo que utiliza la marca registrada Python con el permiso de la Python Software Foundation (PSF), dedicada al avance de la tecnología de código abierto relacionada con el lenguaje de programación Python.
 
 En torno a la que se organizan eventos de distintos tipos, quiere asegurar que todas las personas que participen en dichos eventos o comunicaciones tengan una experiencia profesional y positiva de aprendizaje, colaboración u ocio. Para ello, se espera que quien participe en la comunidad muestre respeto y cortesía hacia todos los demás.
 
