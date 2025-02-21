@@ -16,9 +16,9 @@ El Código de Conducta es un documento vivo y se actualizará cuando y si se con
 
 Siguiendo con el zen de Python, *explícito mejor que implícito*. Explicamos qué se espera del ambiente en cualquier evento de Python Panamá:
 
-- favorece que más personas sepan que son bienvenidas
-- evita ambigüedades
-- construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (*victim blaming*).
+- Favorece que más personas sepan que son bienvenidas
+- Evita ambigüedades
+- Construye un clima de confianza, donde si alguien quiere reportar un incidente, sabrá que no empezaremos por cuestionarle (*victim blaming*).
 
 ## Alcance
 
@@ -70,7 +70,7 @@ Todas las personas administradoras de la comunidad están obligadas a respetar l
 
 Este código de conducta extiende el ya existente con aportaciones de otros códigos:
 
-- la versión en español del [Contributor Covenant](https://www.contributor-covenant.org/), versión 2.0. [homepage](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/)
-- el código de conducta de [DjangoCon Europe 2020](https://2020.djangocon.eu/conduct/code_of_conduct/)
-- código de conducta [Python España](https://www.es.python.org/pages/codigo-de-conducta.html)
-- código de conducta del [Proyecto Fedora](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
+- La versión en español del [Contributor Covenant](https://www.contributor-covenant.org/), versión 2.0. [homepage](https://www.contributor-covenant.org/es/version/2/0/code_of_conduct/)
+- El código de conducta de [DjangoCon Europe 2020](https://2020.djangocon.eu/conduct/code_of_conduct/)
+- El código de conducta de [Python España](https://www.es.python.org/pages/codigo-de-conducta.html)
+- El código de conducta del [Proyecto Fedora](https://docs.fedoraproject.org/en-US/project/code-of-conduct/)
